@@ -1,0 +1,6 @@
+/Users/dasha/Projects/color_sort/color_sort/bin/Debug/color_sort.exe
+/Users/dasha/Projects/color_sort/color_sort/bin/Debug/color_sort.pdb
+/Users/dasha/Projects/color_sort/color_sort/obj/Debug/color_sort.csprojAssemblyReference.cache
+/Users/dasha/Projects/color_sort/color_sort/obj/Debug/color_sort.csproj.CoreCompileInputs.cache
+/Users/dasha/Projects/color_sort/color_sort/obj/Debug/color_sort.exe
+/Users/dasha/Projects/color_sort/color_sort/obj/Debug/color_sort.pdb
